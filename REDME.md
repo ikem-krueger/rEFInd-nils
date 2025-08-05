@@ -2,6 +2,7 @@
 
 My custom theme for rEFInd. No specific style or color palette, just a nice clean theme I like.
 
+![Screenshot of rEFInd-nils theme with two boot options.](./rEFInd-nils.png)
 
 ## Credits
 OS Icons are from and licensed under GPL-3.0 license:
